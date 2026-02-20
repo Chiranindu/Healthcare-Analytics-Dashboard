@@ -44,10 +44,10 @@ Interactive slicers allow dynamic filtering by:
 # Dashboard Preview
 
 ## Operational View
-![Operational View](Operational View.png)
+![Operational View](Operational_View.png)
 
 ## Financial View
-![Financial View](Financial View.png)
+![Financial View](Financial_View.png)
 
 ---
 
